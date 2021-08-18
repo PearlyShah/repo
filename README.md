@@ -1,6 +1,6 @@
 # Hate Speech Detection (v 1.0)
-![GitHub followers](https://img.shields.io/github/followers/Jay3112?style=social)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/PearlyShah?style=social)
+![Profile views](https://gpvc.arturio.dev/PearlyShah)
 
 ## Overview
 The main goal of this project is to identify hate speech.For that models like k-nearest neighbour,logistic regression,random forest classifier,support vector machine and multinomial naive bayes classifier models are used in this project.The feature used is count vectorizer.Here every models have almost same accuracy but the random forest classifier have the highest accuracy of 93%.

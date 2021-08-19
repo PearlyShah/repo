@@ -88,14 +88,14 @@ After preprocessing,feature implementation ,building and training model.The resu
 ![rfc](https://user-images.githubusercontent.com/43084772/129886246-ecbb64ff-66fa-406a-9b9b-95f57473d6ba.PNG)
 ![svm](https://user-images.githubusercontent.com/43084772/129886249-d357b05e-406c-4966-b645-31434dc14349.PNG)
 
-## Version History
+### Version History
 - 1.0
     - Final Release
 
-## License
+### License
 The Hate speech detection project is not licensed.
 
-## Contact
+### Contact
 - Pearly Shah
 - Email id: pearlyshahs@gmail.com
 

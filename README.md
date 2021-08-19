@@ -70,7 +70,7 @@ Method 1 (For local machine):
 Method 2 (For colab):
 * Download and run Hate Speech Detection.ipynb
 
-### Analysis:
+### Analysis
 The data is collected from 'Toxic Comment Classification Challenge' from the kaggle competation.Where each comments are labeled with the class of toxicity i.e toxic,severe toxic,obscene,threat,insult,identity hate.The data is multilabeled i.e each comment contains more than one class.
 Below is the count of each class for the number of comments.
 
